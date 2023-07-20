@@ -3,8 +3,8 @@
     "version": "1.0.0",
     "description": "Shareable Prettier configuration",
     "main": "index.json",
-    "homepage": "https://github.com/raflymln/eslint-config#readme",
-    "repository": "https://github.com/raflymln/eslint-config",
+    "homepage": "https://github.com/raflymln/prettier-config#readme",
+    "repository": "https://github.com/raflymln/prettier-config",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
