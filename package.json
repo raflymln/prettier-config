@@ -1,0 +1,27 @@
+{
+    "name": "@raflymln/prettier-config",
+    "version": "1.0.0",
+    "description": "Shareable Prettier configuration",
+    "main": "index.json",
+    "homepage": "https://github.com/raflymln/eslint-config#readme",
+    "repository": "https://github.com/raflymln/eslint-config",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": {
+        "email": "me@raflymaulana.me",
+        "name": "Rafly Maulana",
+        "url": "https://raflymaulana.me"
+    },
+    "publishConfig": {
+        "access": "public"
+    },
+    "license": "MIT",
+    "devDependencies": {
+        "prettier": "^3.0.0"
+    },
+    "peerDependencies": {
+        "prettier": "^3.0.0"
+    }
+}
